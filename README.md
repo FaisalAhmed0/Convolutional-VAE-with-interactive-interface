@@ -4,6 +4,9 @@ This is a mini project that is based on this medium tutorial series https://towa
 ![image info](Screenshot.png)
 
 clone this repo
+```
+git clone https://github.com/FaisalAhmed0/Convolutional-VAE-with-interactive-interface
+```
 
 Make sure the required packages are installed
 ```
